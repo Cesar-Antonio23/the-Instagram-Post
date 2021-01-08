@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    background-color:rgb(31, 31, 31);
+    font-family:'Roboto', sans-serif;;
+}
+.div1{
+    background-color: white;
+    width: 450px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+h1{
+    font-size: 15px;
+    font-weight: 600;
+
+}
+h2{
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: -10px;
+}
+
+.fa-html5{
+font-size: 30px;
+margin-left: 10px;
+margin-top: 10px;
+
+
+}
+
+
+.titulo{
+    
+    margin-top: -43px;
+    margin-left: 40px;
+    
+    
+}
+
+.fa-ellipsis-v{
+    float: right;
+    margin-top: -45px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+img{
+    width: 450px;
+    height: 350px;
+}
+
+.fa-heart, 
+.fa-comment,
+.fa-paper-plane,
+.fa-bookmark{
+    font-size: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.fa-bookmark{
+    float: right;
+    margin-right: 15px;
+}
+
+.texto{
+    margin: 10px 15px;
+}
+
+.p2{
+    padding-bottom: 20px;
+}
